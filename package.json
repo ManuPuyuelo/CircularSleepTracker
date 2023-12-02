@@ -1,12 +1,8 @@
 {
-  "name": "react-native-circular-slider",
-  "version": "1.0.1",
-  "description": "React Native component for creating circular slider",
+  "name": "circularsleeptracker",
+  "version": "1.0.0",
+  "description": "React Native component for creating circular sleep tracker",
   "main": "src/CircularSlider.js",
-  "repository": {
-    "type": "git",
-    "url": "git+ssh://git@github.com/bgryszko/react-native-circular-slider.git"
-  },
   "keywords": [
     "react",
     "react-native",
@@ -21,19 +17,9 @@
     "timer",
     "react-component"
   ],
-  "author": {
-    "name": "Bart Gryszko",
-    "email": "b@gryszko.com"
-  },
   "files": [
-    "src",
-    "README.md"
+    "src"
   ],
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/bgryszko/react-native-circular-slider/issues"
-  },
-  "homepage": "https://github.com/bgryszko/react-native-circular-slider",
   "dependencies": {
     "d3-interpolate": "^1.1.2",
     "lodash.range": "^3.2.0",
